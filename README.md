@@ -1,11 +1,10 @@
-# FUTURE_DS_02
-An interactive Power BI dashboard analyzing customer churn patterns, retention trends, contract behavior, and customer lifetime value (CLTV) using the Telco Customer Churn dataset.
+An interactive Power BI dashboard and model analyzing customer churn patterns, retention trends, contract behavior, and customer lifetime value (CLTV) using the Telco Customer Churn dataset.
 
 # Customer Retention & Churn Analysis Dashboard
 
 ## 📌 Project Overview
 
-This project focuses on analyzing customer churn behavior and retention trends for a subscription-based business using Power BI. The dashboard provides actionable insights into customer loss, retention drivers, and customer lifetime value (CLTV).
+This project focuses on analyzing customer churn behavior and retention trends for a subscription-based business using Power BI and machine learning. This provides actionable insights into customer loss, retention drivers, and customer lifetime value (CLTV).
 
 The objective of this project is to help businesses understand:
 
